@@ -18,6 +18,7 @@
 
 #### AI项目
 |Tags  |URL    |
+|----------|------------------------|
 |AI绘图汇总|https://github.com/hua1995116/awesome-ai-painting|
 
 
