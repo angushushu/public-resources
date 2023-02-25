@@ -1,4 +1,4 @@
-[en](README.en.md)
+[For English Version](README.en.md)
 
 # 数字绘画 ✨
 
