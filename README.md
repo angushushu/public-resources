@@ -25,6 +25,6 @@
 |Tags  |URL    |
 |----------|------------------------|
 |海外  |https://fansbao.xyz/|
-|      |https://https://nb.rx189.cn/|
+|      |https://nb.rx189.cn|
 
 欢迎补充
