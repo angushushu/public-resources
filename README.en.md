@@ -1,4 +1,4 @@
-[For Chinese Version](README.md)
+[中文版](README.md)
 
 ### 📪 Public Resources
 
