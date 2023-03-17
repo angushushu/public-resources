@@ -17,6 +17,7 @@
 |欧乐      |https://www.olevod.com/ |
 
 #### 软件资源
+|Tags   |URL    |
 |Adobe全家桶|https://t.me/s/adobe_vposy|
 
 #### AI项目
