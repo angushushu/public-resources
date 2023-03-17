@@ -32,4 +32,9 @@
 |海外  |https://fansbao.xyz/|
 |      |https://nb.rx189.cn|
 
+#### 教程
+|Tags  |URL    |
+|----------|------------------------|
+|各种  |http://oeasy.org/|
+
 欢迎补充
