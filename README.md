@@ -8,13 +8,16 @@
 |私人链接   |https://singlelogin.me  |
 |          |http://libgen.rs/       |
 |          |https://www.pdfdrive.com/|
-|          |https://www.pdfdrive.com/|
+|scihub地址|https://tool.yovisun.com/scihub/|
 
 #### 影视资源
 |Tags   |URL    |
 |----------|------------------------|
 |片库      |http://www.piankumi.cc/ |
 |欧乐      |https://www.olevod.com/ |
+
+#### 软件资源
+|Adobe全家桶|https://t.me/s/adobe_vposy|
 
 #### AI项目
 |Tags  |URL    |
