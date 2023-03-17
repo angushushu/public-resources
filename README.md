@@ -13,7 +13,7 @@
 #### 影视资源
 |Tags   |URL    |
 |----------|------------------------|
-|片库      |http://www.piankumi.cc/ |
+|片库      |https://www.pkmp4.com/ |
 |欧乐      |https://www.olevod.com/ |
 
 #### 软件资源
