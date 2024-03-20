@@ -7,13 +7,13 @@
 |----------|------------------------|
 |D2L|https://d2l.ai|
 |动手学深度学习PyTorch|https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497|
-|概率论导论|https://www.bilibili.com/video/BV1ci4y1j7db/?spm_id_from=333.999.0.0&vd_source=c8d7175a55f43575363d32b871b66e7f|
-|向量微积分和偏微分方程|https://www.bilibili.com/video/BV1UP411u7mS/?spm_id_from=333.999.0.0&vd_source=c8d7175a55f43575363d32b871b66e7f|
-|傅里叶分析|https://www.bilibili.com/video/BV1iy4y187wh/?spm_id_from=333.788.recommend_more_video.0&vd_source=c8d7175a55f43575363d32b871b66e7f|
+|概率论导论|https://www.bilibili.com/video/BV1ci4y1j7db|
+|向量微积分和偏微分方程|https://www.bilibili.com/video/BV1UP411u7mS|
+|傅里叶分析|https://www.bilibili.com/video/BV1iy4y187wh|
 |神经方法|https://dartbrains.org|
-|计算神经科学|https://www.bilibili.com/video/BV1RL411q73R/?spm_id_from=333.999.0.0&vd_source=c8d7175a55f43575363d32b871b66e7f|
+|计算神经科学|https://www.bilibili.com/video/BV1RL411q73R|
 |梅花易数|https://space.bilibili.com/627656495/channel/collectiondetail?sid=964594|
-|易经详解|https://www.bilibili.com/video/BV1TZ4y1C7BZ/?spm_id_from=333.999.0.0&vd_source=c8d7175a55f43575363d32b871b66e7f|
+|易经详解|https://www.bilibili.com/video/BV1TZ4y1C7BZ|
 |各种  |http://oeasy.org/|
 
 #### 书籍资料
