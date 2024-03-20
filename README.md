@@ -5,7 +5,7 @@
 #### 书籍资料
 |Tags   |URL    |
 |----------|------------------------|
-|私人链接   |https://singlelogin.me  |
+|          |https://zlibrary-global.se/|
 |          |http://libgen.rs/       |
 |          |https://www.pdfdrive.com/|
 |scihub地址|https://tool.yovisun.com/scihub/|
@@ -21,6 +21,13 @@
 |----------|------------------------|
 |Adobe全家桶|https://t.me/s/adobe_vposy|
 
+#### 教程
+|Tags  |URL    |
+|----------|------------------------|
+|各种  |http://oeasy.org/|
+|数学&工程  |https://www.youtube.com/@Eigensteve|
+|神经方法|https://dartbrains.org|
+
 #### AI项目
 |Tags  |URL    |
 |----------|------------------------|
@@ -29,12 +36,11 @@
 #### 自媒体工具
 |Tags  |URL    |
 |----------|------------------------|
-|海外  |https://fansbao.xyz/|
+|海外   |https://fansbao.xyz/|
+|      |http://nb.kkxdn.com|
+|      |http://nb.kkxdn.com|
+|      |http://jp.kqqxx.com|
+|      |http://cn.tacyzs.com|
 |      |https://nb.rx189.cn|
-
-#### 教程
-|Tags  |URL    |
-|----------|------------------------|
-|各种  |http://oeasy.org/|
 
 欢迎补充
