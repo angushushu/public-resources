@@ -14,6 +14,8 @@
 |计算神经科学|https://www.bilibili.com/video/BV1RL411q73R|
 |梅花易数|https://space.bilibili.com/627656495/channel/collectiondetail?sid=964594|
 |易经详解|https://www.bilibili.com/video/BV1TZ4y1C7BZ|
+|MC插件开发|https://www.youtube.com/playlist?list=PLfu_Bpi_zcDNEKmR82hnbv9UxQ16nUBF7|
+|Vue+Django|https://www.youtube.com/watch?v=Yg5zkd9nm6w|
 |各种  |http://oeasy.org/|
 
 #### 书籍资料
