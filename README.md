@@ -2,6 +2,14 @@
 
 ### 📪 公共资源
 
+#### 公开课
+|Tags  |URL    |
+|----------|------------------------|
+|D2L|https://d2l.ai|
+|数学&工程  |https://www.youtube.com/@Eigensteve|
+|神经方法|https://dartbrains.org|
+|各种  |http://oeasy.org/|
+
 #### 书籍资料
 |Tags   |URL    |
 |----------|------------------------|
@@ -20,13 +28,6 @@
 |Tags   |URL    |
 |----------|------------------------|
 |Adobe全家桶|https://t.me/s/adobe_vposy|
-
-#### 教程
-|Tags  |URL    |
-|----------|------------------------|
-|各种  |http://oeasy.org/|
-|数学&工程  |https://www.youtube.com/@Eigensteve|
-|神经方法|https://dartbrains.org|
 
 #### AI项目
 |Tags  |URL    |
