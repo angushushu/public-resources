@@ -1,5 +1,5 @@
 ---
-name: Link invailable
+name: Link unvailable
 about: List new link below
 title: link-update
 labels: ''
