@@ -53,3 +53,7 @@
 |      |https://nb.rx189.cn|
 
 欢迎补充
+
+[![Stargazers repo roster for @angushushu/public-resources](https://reporoster.com/stars/angushushu/public-resources)](https://github.com/angushushu/public-resources/stargazers)
+
+[![Forkers repo roster for @angushushu/public-resources](https://reporoster.com/forks/angushushu/public-resources)](https://github.com/angushushu/public-resources/network/members)
