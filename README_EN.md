@@ -1,26 +1,48 @@
 [中文版](README.md)
 
-### 📪 Public Resources
+### 📪 Public Resource
 
-#### book/articles
+#### Book resource
 |Tags   |URL    |
 |----------|------------------------|
-|private link|https://singlelogin.me  |
+|          |https://zlibrary-global.se/|
 |          |http://libgen.rs/       |
 |          |https://www.pdfdrive.com/|
-|          |https://www.pdfdrive.com/|
+|scihub addresses|https://tool.yovisun.com/scihub/|
 
-#### movie/drama
+#### Film/TV series resource
 |Tags   |URL    |
 |----------|------------------------|
-|in CN      |http://www.piankumi.cc/ |
-|in CN      |https://www.olevod.com/ |
+|          |https://www.pkmp4.com/ |
+|          |https://www.olevod.com/ |
 
-#### AI项目
+#### Software resource
+|Tags   |URL    |
+|----------|------------------------|
+|Adobe     |https://t.me/s/adobe_vposy|
+
+#### Public courses
 |Tags  |URL    |
 |----------|------------------------|
-|AI painting|https://github.com/hua1995116/awesome-ai-painting|
+|any       |http://oeasy.org/|
+|math&engineering|https://www.youtube.com/@Eigensteve|
+|brain imaging|https://dartbrains.org|
 
+#### AI projects
+|Tags  |URL    |
+|----------|------------------------|
+|AI paintings|https://github.com/hua1995116/awesome-ai-painting|
 
-Welcome to add
+#### Social media toolkits
+|Tags  |URL    |
+|----------|------------------------|
+|      |https://fansbao.xyz/|
+|Mainland CN|http://nb.kkxdn.com|
+|Mainland CN|http://nb.kkxdn.com|
+|Mainland CN|http://jp.kqqxx.com|
+|Mainland CN|http://cn.tacyzs.com|
+|Mainland CN|https://nb.rx189.cn|
+
+Any contribution is welcomed
+
 
