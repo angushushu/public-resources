@@ -5,6 +5,7 @@
 #### 公开课
 |Tags  |URL    |
 |----------|------------------------|
+|rust|https://www.bilibili.com/video/BV1hp4y1k7SV/?spm_id_from=333.999.0.0|
 |D2L|https://d2l.ai|
 |动手学深度学习PyTorch|https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497|
 |概率论导论|https://www.bilibili.com/video/BV1ci4y1j7db|
