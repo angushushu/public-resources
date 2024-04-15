@@ -27,7 +27,7 @@
 - [Sci-Hub 地址](https://tool.yovisun.com/scihub/)
 
 ### 🎬 影视资源
-- [片库](https://www.pkmp4.com/)
+- [七味地址](https://www.qn63.com/)
 - [欧乐](https://www.olevod.com/)
 
 ### 💻 软件资源
