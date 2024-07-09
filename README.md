@@ -8,6 +8,7 @@
 - [Rust 公开课](https://www.bilibili.com/video/BV1hp4y1k7SV/?spm_id_from=333.999.0.0)
 - [D2L 深度学习](https://d2l.ai)
 - [动手学深度学习PyTorch](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
+- [StatQuest-DeepLearning](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 - [概率论导论](https://www.bilibili.com/video/BV1ci4y1j7db)
 - [马可夫链&潜在马可夫](https://www.youtube.com/playlist?list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV)
 - [向量微积分和偏微分方程](https://www.bilibili.com/video/BV1UP411u7mS)
