@@ -29,7 +29,8 @@
 
 ### 🎬 影视资源
 - [七味地址](https://www.qn63.com/)
-- [欧乐](https://www.olevod.com/)
+- [欧乐](https://www.olevod.one/)
+- [子子影视](https://www.ziziys.com/)
 
 ### 💻 软件资源
 - [Adobe全家桶](https://t.me/s/adobe_vposy)
